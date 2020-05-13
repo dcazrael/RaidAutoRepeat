@@ -11,7 +11,7 @@ The exe can simply be executed
 1. On start double click on the Tray Icon to open settings (or Press F9)
 2. Set your desired waiting time between clicks
 3. Make sure the Name for the Window is correct
-    - for Emulator simply "Nox" or "BlueStacks" is enough (if you don't have it running it will be ignored so just keep it at default)
+    - for Emulator simply "Nox" or "BlueStacks" is enough (if you don't use an emulator just keep it at default)
     -  for the Plarium Client leave it as it is
 4. Save
 
