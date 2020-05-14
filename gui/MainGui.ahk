@@ -9,9 +9,9 @@ Exit(ByRef gui_class) {
 
 Class MainGui extends GuiBase {
     Init() {
-        width := 120
+        width := 140
         height := 65
-        this.windowSetup(width, height, "ffffff", 10)
+        this.windowSetup(width, height, "ffffff", 60)
         this.title := this.AddText("w" . width-20 . " x10 c111111 R1 +center", "Raid Auto Repeater")
         this.status_text := this.AddText("w" . width-20 . " x10 c111111 R1 +center", "Disabled")
         this.delay_text := this.AddText("w" . width-20 . " x10 c111111 R1 +center", "")
