@@ -16,5 +16,5 @@ The exe can simply be executed
 4. Save
 
 # Usage
-Press F4 and let it run
-Change the sleep timer in the settings if you want different sleep times
+* Press F4 and let it run
+* Change the sleep timer in the settings if you want different sleep times
