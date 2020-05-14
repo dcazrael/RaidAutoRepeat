@@ -38,7 +38,7 @@ Class RaidAutoRepeat {
     */
     addTrayMenu() {
         show_settings := ObjBindMethod(this, "showSettings")
-        show_help := show_settings := ObjBindMethod(this, "showHelp")
+        show_help := ObjBindMethod(this, "showHelp")
         Menu, Tray, Add
         Menu, Tray, Add, Settings, % show_settings
         Menu, Tray, Add, Help, % show_help
